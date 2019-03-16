@@ -31,4 +31,4 @@ Bloc 2 : spawn
 ```
 
 ## Author
-Simon Galasso
+Jeanne Sauron
