@@ -8,7 +8,7 @@
 C language, SDL2 library, Raycasting method
 
 ## Installing
-* Git clone http://github.com/jsauron/wolf3d.git
+* Git clone http://github.com/sgalasso/wolf3d.git
 * Compile it with `make`
 
 ## Make it work
@@ -31,4 +31,4 @@ Bloc 2 : spawn
 ```
 
 ## Author
-Jeanne Sauron
+Simon Galasso
